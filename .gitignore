@@ -97,3 +97,10 @@ fabric.properties
 hs_err_pid*
 
 local.properties # Android
+
+.gradle/
+.idea/
+yamlkt/build/*
+benchmark/build/*
+buildSrc/build/*
+local.properties

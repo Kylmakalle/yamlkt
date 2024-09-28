@@ -3,8 +3,8 @@
 plugins {
     kotlin("multiplatform")
     kotlin("plugin.serialization")
-    `maven-publish`
-    id("com.jfrog.bintray")
+    // `maven-publish`
+    // id("com.jfrog.bintray")
 }
 
 kotlin {
@@ -82,4 +82,4 @@ kotlin {
         }
     }
 }
-apply(from = "../gradle/publish.gradle")
+// apply(from = "../gradle/publish.gradle")
