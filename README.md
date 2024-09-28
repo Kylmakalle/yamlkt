@@ -1,6 +1,7 @@
 # YamlKt
 > [!NOTE]
 > Buildable fork of yamlkt [0.8.0](https://github.com/Him188/yamlkt/releases/tag/0.8.0)
+> See latest run at https://github.com/Kylmakalle/yamlkt/actions/workflows/Build-Artifact.yml
 
 > [!WARNING]
 > MacOS builds require build and dependencies installation (Java, Gradle, etc.) via Apple Rosetta 2, which is kinda tricky. As well as altering targets to support new architectures like macosArm64
