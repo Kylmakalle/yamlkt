@@ -1,4 +1,10 @@
 # YamlKt
+> [!NOTE]
+> Buildable fork of yamlkt [0.8.0](https://github.com/Him188/yamlkt/releases/tag/0.8.0)
+
+> [!WARNING]
+> MacOS builds require build and dependencies installation (Java, Gradle, etc.) via Apple Rosetta 2, which is kinda tricky. As well as altering targets to support new architectures like macosArm64
+
 ![Gradle CI](https://github.com/mamoe/yamlkt/workflows/Gradle%20CI/badge.svg?branch=master)
 [![Download](https://api.bintray.com/packages/mamoe/yamlkt/yamlkt/images/download.svg)](https://bintray.com/mamoe/yamlkt/yamlkt/)
 
